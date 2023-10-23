@@ -7,6 +7,4 @@
 
 ---
 
-🚀 I am currently a student, aspiring entrepreneur, and hobby programmer interested in startups.
-
-🚀 I like programming in Python and Javascript, designing eye-candy user interfaces, and research in Aeronautics.
+🚀 I am currently a student, aspiring entrepreneur, and hobby programmer.
