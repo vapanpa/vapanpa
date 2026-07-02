@@ -5,7 +5,7 @@
 </div>
 
 <a href="https://victorapanpa.com/" target="_blank" rel="noopener">
-  <img src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fvapanpa&label=visits"/>
+  <!-- <img src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fvapanpa&label=visits"/> -->
 </a>
 
 
