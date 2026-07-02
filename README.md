@@ -18,4 +18,6 @@
 
 ---
 
-🚀 I am currently a student, aspiring entrepreneur, and hobby programmer.
+🚀 West Point and Northwestern graduate, U.S. Army Officer, and Data Science Professional.
+
+Applies data science, statistics, and quantitative analysis to solve complex operational problems and support data-driven decision-making. Passionate about finance, machine learning, and optimization, with continuously developing expertise on quantitative investing, portfolio management, and predictive modeling.
